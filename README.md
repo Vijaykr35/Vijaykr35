@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning  DSA and Web Development</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning  Machine Learning</p>
 
 ###
 
