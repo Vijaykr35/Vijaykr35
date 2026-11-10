@@ -1,79 +1,93 @@
-<h1 align="left">Hey 👋 I'm Vijay Kumar</h1>
+## Learning log
 
-###
-
-<p align="left">
-Final-year <b>B.Tech (Mathematics & Computing)</b> student at <b>Delhi Technological University (DTU)</b>, Delhi.<br>
-Aspiring <b>Software Engineer</b> with strong interest in <b>Full-Stack Development</b>, <b>DSA</b>, and <b>Machine Learning</b>.
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=vijaykr35&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F116620734%3Fu%3D441a65e5d1542bd5734ac91c3abbb41d0b181d74%26v%3D4" alt="vijaykr35 hero visual" />
 </p>
 
-###
+**Vijay Kumar** · Final-year B.Tech (Mathematics & Computing) @ Delhi Technological University · Aspiring Software Engineer · Learning AI
 
-<h2 align="left">🚀 About Me</h2>
+## Currently learning
 
-<p align="left">
-✨ Debugging reality since 2022<br>
-🧠 Strong in <b>DSA, OOPs, OS, DBMS, CN</b><br>
-📚 Currently learning <b>Machine Learning
-🎯 Actively preparing for <b>Product-Based Company Placements</b><br>
-🤝 Open to <b>Internships</b> & <b>Software Engineering Roles</b>
+> Debugging reality since 2022. I enjoy optimizing code more than writing it the first time.
+
+**On my radar right now**
+
+- **Teaching machines to learn:** AI and machine learning, from the math behind the algorithms to models that actually work
+- **Thinking in graphs and trees:** sharpening my problem solving with DSA in C++, one tricky DP problem at a time
+- **Shipping full-stack:** turning ideas into real apps with the MERN stack
+
+Always curious, always building, and open to opportunities where I can learn fast and make something useful.
+
+## Tools I'm practicing
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=vijaykr35&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F116620734%3Fu%3D441a65e5d1542bd5734ac91c3abbb41d0b181d74%26v%3D4" alt="vijaykr35 stack visual" />
 </p>
 
-###
+C++ · JavaScript · TypeScript · Python · React · Node.js · Express · MongoDB · HTML5 · CSS3 · Tailwind CSS
 
-<h2 align="left">🛠️ Tech Stack</h2>
+**Core CS:** DSA, OOPs, OS, DBMS, Computer Networks
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
-  <img width="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img width="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-  <img width="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-  <img width="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
-  <img width="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-  <img width="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-  <img width="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40"/>
-</div>
+## Projects in progress
 
-###
+<details>
+<summary><b>Socially</b> · TypeScript</summary>
 
-<h2 align="left">📌 Currently Focused On</h2>
+A selected project from this GitHub profile.
 
-<p align="left">
-• Solving <b>DSA problems</b> in C++ (Arrays, Trees, Graphs, DP)<br>
-• Building <b>Full-Stack MERN</b> projects<br>
-• Learning <b>Machine Learning algorithms</b> & statistics
+[View repository](https://github.com/Vijaykr35/Socially)
+</details>
+
+<details>
+<summary><b>IrisChat</b> · JavaScript</summary>
+
+A chat app built with JavaScript.
+
+[View repository](https://github.com/Vijaykr35/IrisChat)
+</details>
+
+<details>
+<summary><b>chatbot</b> · Python</summary>
+
+A Python chatbot project.
+
+[View repository](https://github.com/Vijaykr35/chatbot)
+</details>
+
+<details>
+<summary><b>dashboard</b> · TypeScript</summary>
+
+A TypeScript dashboard UI.
+
+[View repository](https://github.com/Vijaykr35/dashboard)
+</details>
+
+<details>
+<summary><b>society-management-system</b> · JavaScript</summary>
+
+React + Node.js society management system (forked from [URBAN_NEST](https://github.com/shivamgarg001/URBAN_NEST)).
+
+[View repository](https://github.com/Vijaykr35/society-management-system)
+</details>
+
+## Progress so far
+
+- **Focus:** AI & related fields, DSA in C++, MERN projects
+- **Problem solving:** consistent practice on [LeetCode](https://leetcode.com/u/VJkumar29)
+- **Strengths:** strong math background applied to algorithms, responsive UI with Tailwind CSS
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=vijaykr35&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F116620734%3Fu%3D441a65e5d1542bd5734ac91c3abbb41d0b181d74%26v%3D4" alt="vijaykr35 stats visual" />
 </p>
 
-###
+## Learning streak
 
-<h2 align="left">📂 Featured Projects</h2>
-
-<p align="left">
-• <b>Full-Stack Web App</b> – React, Node.js, Express, MongoDB<br>
-• <b>DSA Problem Set</b> – Optimized C++ solutions<br>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=vijaykr35&theme=zen" alt="vijaykr35 contribution activity" />
 </p>
 
-###
+## Say hello
 
-<h2 align="left">🏆 Achievements & Highlights</h2>
-
-<p align="left">
-• Consistent problem solving on coding platforms<br>
-• Strong mathematical background applied to algorithms<br>
-• Experience building responsive UI using Tailwind CSS
-</p>
-
-
-
-<h2 align="left">⚡ Fun Fact</h2>
-
-<p align="left">
-I enjoy optimizing code more than writing it the first time.
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=vijaykr35&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F116620734%3Fu%3D441a65e5d1542bd5734ac91c3abbb41d0b181d74%26v%3D4" alt="vijaykr35 social visual" />
 </p>
