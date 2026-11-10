@@ -4,7 +4,7 @@
   <img src="https://www.gitskins.com/api/section/hero?username=vijaykr35&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F116620734%3Fu%3D441a65e5d1542bd5734ac91c3abbb41d0b181d74%26v%3D4" alt="vijaykr35 hero visual" />
 </p>
 
-**Vijay Kumar** · Final-year B.Tech (Mathematics & Computing) @ Delhi Technological University · Aspiring Software Engineer · Learning AI
+**Vijay Kumar** ·  B.Tech (Mathematics & Computing) @ Delhi Technological University · Aspiring Software Engineer · Learning AI
 
 ## Currently learning
 
@@ -79,13 +79,6 @@ React + Node.js society management system (forked from [URBAN_NEST](https://gith
 <p align="center">
   <img src="https://www.gitskins.com/api/section/stats?username=vijaykr35&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F116620734%3Fu%3D441a65e5d1542bd5734ac91c3abbb41d0b181d74%26v%3D4" alt="vijaykr35 stats visual" />
 </p>
-
-## Learning streak
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=vijaykr35&theme=zen" alt="vijaykr35 contribution activity" />
-</p>
-
 ## Say hello
 
 <p align="center">
